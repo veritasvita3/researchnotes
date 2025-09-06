@@ -4,7 +4,7 @@
 
 Our cells have sophisticated mechanisms to repair damage to their DNA, which happens constantly.
 
-[Homologous Recombination Repair (HRR)](concepts\HHR.md) is one of the most accurate systems, specifically used to fix severe, double-stranded DNA breaks. It uses the [sister chromatid](concepts\sister_chromatid.md) as a "template" to repair the break correctly.
+[Homologous Recombination Repair (HRR)](HHR.md) is one of the most accurate systems, specifically used to fix severe, double-stranded DNA breaks. It uses the [sister chromatid](sister_chromatid.md) as a "template" to repair the break correctly.
 
 Think of it as a skilled mechanic using the original blueprint to fix a broken engine part.
 
